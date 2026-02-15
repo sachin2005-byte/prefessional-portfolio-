@@ -1,1 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>College Tech Fest 2026</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+
+  <!-- Hero Section -->
+  <section class="bg-purple-600 text-white text-center py-20">
+    <h1 class="text-4xl font-bold mb-4">Tech Fest 2026 🚀</h1>
+    <p class="text-lg">Join us for innovation, coding & fun!</p>
+    <button class="mt-6 bg-white text-purple-600 px-6 py-2 rounded font-bold">
+      Register Now
+    </button>
+  </section>
+
+  <!-- Event Details -->
+  <section class="py-16 px-6 text-center">
+    <h2 class="text-3xl font-bold mb-6">Event Details</h2>
+    <p>Date: March 20, 2026</p>
+    <p>Venue: College Auditorium</p>
+  </section>
+
+  <!-- Schedule -->
+  <section class="bg-white py-16 px-6">
+    <h2 class="text-3xl font-bold text-center mb-8">Event Schedule</h2>
+    <div class="max-w-3xl mx-auto space-y-4">
+      <div class="p-4 bg-gray-100 rounded shadow">
+        10:00 AM - Opening Ceremony
+      </div>
+      <div class="p-4 bg-gray-100 rounded shadow">
+        11:00 AM - Coding Competition
+      </div>
+      <div class="p-4 bg-gray-100 rounded shadow">
+        2:00 PM - Guest Speaker Session
+      </div>
+      <div class="p-4 bg-gray-100 rounded shadow">
+        4:00 PM - Prize Distribution
+      </div>
+    </div>
+  </section>
+
+  <!-- Highlights -->
+  <section class="py-16 px-6 text-center">
+    <h2 class="text-3xl font-bold mb-6">Highlights</h2>
+    <div class="grid md:grid-cols-3 gap-6">
+      <div class="bg-white p-6 rounded shadow">
+        💻 Hackathon
+      </div>
+      <div class="bg-white p-6 rounded shadow">
+        🎤 Guest Speakers
+      </div>
+      <div class="bg-white p-6 rounded shadow">
+        🏆 Exciting Prizes
+      </div>
+    </div>
+  </section>
+
+  <footer class="bg-purple-600 text-white text-center p-4">
+    © 2026 Tech Fest | All Rights Reserved
+  </footer>
+
+</body>
+</html>
 
